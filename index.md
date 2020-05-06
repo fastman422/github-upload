@@ -31,6 +31,7 @@ Syntax highlighted code block
 ```
 
 For more and more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [百度]（http://baidu.com）
 
 ### Jekyll Themes 主题
 
